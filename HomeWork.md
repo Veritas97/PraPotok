@@ -34,6 +34,8 @@ ps -aux | grep root | wc -l >> root
 Напишите команду в терминале, которая выводит все запущенные процессы пользователя root в файл "user-login_root_ps".
 
 Ответ:
+
+
 ![png5](https://github.com/Veritas97/PraPotok/blob/main/FOTO/png5.png)
 ***
 * Задание 5
