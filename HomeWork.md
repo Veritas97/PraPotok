@@ -5,16 +5,16 @@
 Выполните команды утилитой pidstat с процессом на свой выбор (для этого можете в отдельном терминале запустить редактор nano) по предложенным командам (с атрибутами) в презентации с 14 по 19 стр.
 
 Ответ:
-![png1](FOTO\png1.png)
+![png1](https://github.com/Veritas97/PraPotok/blob/main/FOTO/png1.png)
 ***
-![png2](FOTO\png2.png)
+![png2](https://github.com/Veritas97/PraPotok/blob/main/FOTO/png2.png)
 ***
 * Задание 2
 
 Выберите на свой вкус номер процесса и Kill`ните его. Приложите скриншот проделанных команд и результат.
 
 Ответ:
-![png3](FOTO\png3.png)
+![png3](https://github.com/Veritas97/PraPotok/blob/main/FOTO/png3.png)
 ***
 * Задание 3
 
@@ -27,14 +27,14 @@ ps -aux | grep root | wc -l >> root
 Системная утилита PS отвечает за отображение процессов на экране пользователя. Grep это утилита командной строки, которая устанавливается по умолчанию почти во всех дистрибутивах Linux, BSD и UNIX. root это супер пользователь. wc Покажет статистику текстового файла.
 * Грубо говоря создает файл и в этом файле записывает колличество процессов.
 ```
-![png4](FOTO\png4.png)
+![png4](https://github.com/Veritas97/PraPotok/blob/main/FOTO/png4.png)
 ***
 * Задание 4
 
 Напишите команду в терминале, которая выводит все запущенные процессы пользователя root в файл "user-login_root_ps".
 
 Ответ:
-![png5](FOTO\png5.png)
+![png5](https://github.com/Veritas97/PraPotok/blob/main/FOTO/png5.png)
 ***
 * Задание 5
 
@@ -72,7 +72,7 @@ ps -U user5> user_5_ps
 уровню потребления ресурсов.
 
 Ответ:
-![png6](FOTO\png6.png)
+![png6](https://github.com/Veritas97/PraPotok/blob/main/FOTO/png6.png)
 ***
 * Задание 7
 
@@ -83,9 +83,9 @@ ps -U user5> user_5_ps
 Выведите полный путь процесса.
 
 Ответ: 
-![png7](FOTO\png7.png)
+![png7](https://github.com/Veritas97/PraPotok/blob/main/FOTO/png7.png)
 
-![png8](FOTO\png8.png)
+![png8](https://github.com/Veritas97/PraPotok/blob/main/FOTO/png8.png)
 ***
 * Задание 8
 
@@ -107,5 +107,5 @@ ps -U user5> user_5_ps
 Приведите ответ в виде снимков экрана.
 
 Ответ: 
-![png9](FOTO\png9.png)
+![png9](https://github.com/Veritas97/PraPotok/blob/main/FOTO/png9.png)
 ***
