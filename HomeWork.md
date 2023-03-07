@@ -72,6 +72,7 @@ ps -U user5> user_5_ps
 уровню потребления ресурсов.
 
 Ответ:
+
 ![png6](https://github.com/Veritas97/PraPotok/blob/main/FOTO/png6.png)
 ***
 * Задание 7
@@ -83,6 +84,7 @@ ps -U user5> user_5_ps
 Выведите полный путь процесса.
 
 Ответ: 
+
 ![png7](https://github.com/Veritas97/PraPotok/blob/main/FOTO/png7.png)
 
 ![png8](https://github.com/Veritas97/PraPotok/blob/main/FOTO/png8.png)
